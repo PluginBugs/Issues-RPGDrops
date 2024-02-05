@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Forum
+    url: https://forum.devs.beer/
+    about: Official community forum
+  - name: Discord server
+    url: https://discord.gg/sMAE3Na
+    about: My personal Discord server
+  - name: RPGDrops wiki
+    url: http://a.devs.beer/git-wiki-issue
+    about: Official wiki of RPGDrops
